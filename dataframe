@@ -1,0 +1,15 @@
+data={
+    "comment": [
+        "I love this product, it’s amazing!",
+        "This is the worst thing I’ve ever bought.",
+        "Great customer service and fast delivery.",
+        "Not happy with the quality.",
+        "Absolutely fantastic experience!",
+        "Horrible. Would not recommend.",
+        "Very satisfied, will purchase again.",
+        "It was okay, nothing special.",
+        "Terrible, completely useless.",
+        "The product exceeded my expectations."
+    ],
+    "sentiment": [1, 0, 1, 0, 1, 0, 1, 0, 0, 1]  # 1 = Positive, 0 = Negative
+}
